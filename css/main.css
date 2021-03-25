@@ -256,6 +256,11 @@ main .row .block-right .block-right-body {
   width: 335px;
   margin: 136px auto 107px auto;
 }
+@media screen and (max-width: 992px) {
+  main .row .block-right .block-right-body {
+    margin: 60px auto 50px auto;
+  }
+}
 main .row .block-right .signup-links {
   display: -webkit-box;
   display: -moz-box;
